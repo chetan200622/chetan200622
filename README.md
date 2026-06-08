@@ -2,14 +2,10 @@
 ## 🚀 About Me :<br><br>
 
 🔭 I’m currently working on: Freelance Connect – A Full-Stack Freelancing Platform<br>
-👯 I’m looking to collaborate on: Full Stack Development & Open Source Projects<br><br>
-
-🤝 I’m looking for help with: System Design, Cloud Deployment & Scalable Architectures<br><br>
-
-🌱 I’m currently learning: DSA, Django REST APIs & Database Optimization<br><br>
-
-💬 Ask me about: Python, React, Django, MongoDB, Firebase & DSA<br><br>
-
+👯 I’m looking to collaborate on: Full Stack Development & Open Source Projects<br>
+🤝 I’m looking for help with: System Design, Cloud Deployment & Scalable Architectures<br>
+🌱 I’m currently learning: DSA, Django REST APIs & Database Optimization<br>
+💬 Ask me about: Python, React, Django, MongoDB, Firebase & DSA<br>
 ⚡ Fun fact: I love learning new technologies by building real-world projects.
 
 ## 🌐 Socials:
