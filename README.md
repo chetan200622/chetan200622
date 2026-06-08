@@ -1,8 +1,7 @@
 
 ## 🚀 About Me :<br><br>
 
-🔭 I’m currently working on: Freelance Connect – A Full-Stack Freelancing Platform<br><br>
-
+🔭 I’m currently working on: Freelance Connect – A Full-Stack Freelancing Platform<br>
 👯 I’m looking to collaborate on: Full Stack Development & Open Source Projects<br><br>
 
 🤝 I’m looking for help with: System Design, Cloud Deployment & Scalable Architectures<br><br>
