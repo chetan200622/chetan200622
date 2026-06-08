@@ -1,14 +1,17 @@
 
-## 🚀 About Me
+## 🚀 About Me :<br><br>
 
-🔭 I’m currently working on: Freelance Connect – A Full-Stack Freelancing Platform.
-👯 I’m looking to collaborate on: Full Stack Development & Open Source Projects.
-🤝 I’m looking for help with: System Design, Cloud Deployment, and Scalable Architectures.
-🌱 I’m currently learning: DSA, Django REST APIs, and Database Optimization.
-💬 Ask me about: Python, React, Django, MongoDB, Firebase, and DSA.
+🔭 I’m currently working on: Freelance Connect – A Full-Stack Freelancing Platform<br><br>
+
+👯 I’m looking to collaborate on: Full Stack Development & Open Source Projects<br><br>
+
+🤝 I’m looking for help with: System Design, Cloud Deployment & Scalable Architectures<br><br>
+
+🌱 I’m currently learning: DSA, Django REST APIs & Database Optimization<br><br>
+
+💬 Ask me about: Python, React, Django, MongoDB, Firebase & DSA<br><br>
+
 ⚡ Fun fact: I love learning new technologies by building real-world projects.
-
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_chetan_1648) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sai chetan Mamidi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mamidisaichetan@gmail.com) 
